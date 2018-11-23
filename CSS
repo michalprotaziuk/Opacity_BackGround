@@ -1,0 +1,16 @@
+.background {
+    background:url('http://bi.gazeta.pl/im/3/24147/m24147173,NA.jpg');
+    position: relative;
+    width: 100%;
+    height: 1300px; 
+}
+
+.layer {
+
+    background-color: rgba(250, 250, 250, 0.95);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 1300px; 
+}
